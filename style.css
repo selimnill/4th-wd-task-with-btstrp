@@ -1,0 +1,29 @@
+.col img{
+    width: 80%;
+}
+div ul li a{
+    color: white;
+}
+.navv{
+    background-color: rgb(225, 142, 41);
+    color: white;
+}
+body{
+    background-color: black;
+}
+.hero-section div img{
+    width: 80%;
+    border-radius: 20px;
+}
+.hero-section{
+    display: flex;
+    margin-top: 90px;
+    background-color: rgb(242, 242, 248);
+    padding: 40px;
+}
+
+@media screen and (max-width:600px){
+    .dpi-info{
+        font-size: 8px;
+    }
+}
